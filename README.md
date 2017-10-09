@@ -1,7 +1,10 @@
 # M3M6LectureNotes
 Lecture notes for M3M6 Methods of Mathematical Physics
 
-Each file is a Jupyter notebook, that can be viewed in GitHub by clicking the link above.
+Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook viewer:
+
+1. [Course overview](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%201.ipynb)
+2. [Cauchy's theorem](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%202.ipynb)
 
 To run the files on your own machine, use the following steps:
 
