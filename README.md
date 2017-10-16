@@ -2,7 +2,7 @@
 
 ## Problem sheets
 
-1. [Problem sheet 1](https://github.com/dlfivefifty/M3M6LectureNotes/Problem%20Sheet%201.pdf)
+1. [Problem sheet 1](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%201.pdf)
 
 
 ## Lecture notes
