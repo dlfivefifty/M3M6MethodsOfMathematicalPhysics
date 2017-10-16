@@ -1,5 +1,11 @@
-# M3M6LectureNotes
-Lecture notes for M3M6 Methods of Mathematical Physics
+# Course material for M3M6 Methods of Mathematical Physics
+
+## Problem sheets
+
+1. [Problem sheet 1](https://github.com/dlfivefifty/M3M6LectureNotes/Problem%20Sheet%201.pdf)
+
+
+## Lecture notes
 
 Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook viewer:
 
@@ -7,6 +13,7 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 2. [Cauchy's theorem](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%202.ipynb)
 3. [Cauchy's integral formula and Taylor series](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%203.ipynb)
 4. [Trapezium rule, Fourier series and Laurent series](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%204.ipynb)
+5. [Residue theorem](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%205.ipynb)
 
 To run the files on your own machine, use the following steps:
 
