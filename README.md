@@ -1,5 +1,10 @@
 # Course material for M3M6 Methods of Mathematical Physics
 
+## Reading list
+
+1. M.J. Ablowitz & A.S. Fokas, Complex Variables: Introduction and Applications, Second Edition, Cambridge University Press, 2003
+2. R. Earl, (https://courses.maths.ox.ac.uk/node/view_material/5392, 2015)[Metric Spaces and Complex Analysis]
+
 ## Problem sheets
 
 1. [Problem sheet 1](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%201.pdf)
@@ -17,6 +22,7 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 6. [Analyticity at infinity](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%206.ipynb)
 7. [Integrals over the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%207.ipynb)
 8. [Algebraic powers and inferred analyticity](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%208.ipynb)
+9. [Cauchy transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%209.ipynb)
 
 To run the files on your own machine, use the following steps:
 
