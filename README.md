@@ -3,7 +3,7 @@
 ## Reading list
 
 1. M.J. Ablowitz & A.S. Fokas, Complex Variables: Introduction and Applications, Second Edition, Cambridge University Press, 2003
-2. R. Earl, [https://courses.maths.ox.ac.uk/node/view_material/5392, 2015](Metric Spaces and Complex Analysis)
+2. R. Earl, [https://courses.maths.ox.ac.uk/node/view_material/5392](Metric Spaces and Complex Analysis), 2015
 
 ## Problem sheets
 
