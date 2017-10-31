@@ -24,7 +24,8 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 8. [Algebraic powers and inferred analyticity](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%208.ipynb)
 9. [Cauchy transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%209.ipynb)
 10. [Hilbert transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2010.ipynb)
-11. [Riemann–Hilbert problems (preliminary)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2011.ipynb)
+11. [Riemann–Hilbert problems](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2011.ipynb)
+11. [Electric charges in a potential well (preliminary)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2012.ipynb)
 
 To run the files on your own machine, use the following steps:
 
@@ -38,6 +39,7 @@ Pkg.add("Plotly")
 Pkg.add("PlotlyJS")
 Pkg.add("Interact")
 Pkg.add("IJulia")
+Pkg.add("DifferentialEquations")
 Pkg.clone("https://github.com/dlfivefifty/ComplexPhasePortrait.jl")
 ```
 3. Boot-up Jupyter by running in Julia
