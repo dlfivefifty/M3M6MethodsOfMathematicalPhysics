@@ -25,7 +25,8 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 9. [Cauchy transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%209.ipynb)
 10. [Hilbert transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2010.ipynb)
 11. [Riemann–Hilbert problems](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2011.ipynb)
-11. [Electric charges in a potential well (preliminary)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2012.ipynb)
+11. [Electric charges in a potential well](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2012.ipynb)
+12. [Logarithmic singular integrals](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2013.ipynb)
 
 To run the files on your own machine, use the following steps:
 
