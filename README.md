@@ -8,6 +8,7 @@
 ## Problem sheets
 
 1. [Problem sheet 1](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%201.pdf) [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%201.ipynb)
+2. [Problem sheet 2](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%202.pdf) 
 
 
 ## Lecture notes
