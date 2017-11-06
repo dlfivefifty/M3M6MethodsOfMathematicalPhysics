@@ -29,6 +29,8 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 12. [Additive Riemann–Hilbert problems](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2012.ipynb)
 13. [Electric charges in a potential well](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2013.ipynb)
 14. [Logarithmic singular integrals](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2014.ipynb)
+15. [Constructing orthogonal polynomials](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2015.ipynb)
+
 
 To run the files on your own machine, use the following steps:
 
