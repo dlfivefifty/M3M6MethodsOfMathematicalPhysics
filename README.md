@@ -8,7 +8,8 @@
 ## Problem sheets
 
 1. [Problem sheet 1](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%201.pdf) [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%201.ipynb)
-2. [Problem sheet 2](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%202.pdf) 
+2. [Problem sheet 2](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%202.pdf)
+3. [Problem sheet 3](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%203.pdf)
 
 
 ## Lecture notes
@@ -34,6 +35,9 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 17. [Solving differential equations with orthogonal polynomials](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2017.ipynb)
 18. [Differential equations satisfied by orthogonal polynomials](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2018.ipynb)
 19. [Orthogonal polynomials and singular integrals](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2019.ipynb)
+20. [Integral equations on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2020.ipynb)
+21. [Laplace transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2021.ipynb)
+22. [Cauchy transforms on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2022.ipynb)
 
 
 To run the files on your own machine, use the following steps:
