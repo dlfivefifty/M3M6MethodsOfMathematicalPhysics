@@ -37,7 +37,8 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 19. [Orthogonal polynomials and singular integrals](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2019.ipynb)
 20. [Integral equations on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2020.ipynb)
 21. [Laplace transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2021.ipynb)
-22. [Cauchy transforms on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2022.ipynb)
+22. [Integral equations on the half-line and Riemann–Hilbert problems](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2022.ipynb)
+22. [Riemann–Hilbert problems on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2023.ipynb)
 
 
 To run the files on your own machine, use the following steps:
@@ -54,6 +55,7 @@ Pkg.add("Interact")
 Pkg.add("IJulia")
 Pkg.add("DifferentialEquations")
 Pkg.clone("https://github.com/dlfivefifty/ComplexPhasePortrait.jl")
+Pkg.clone("https://github.com/JuliaApproximation/OscillatoryIntegrals.jl")
 ```
 3. Boot-up Jupyter by running in Julia
 ```julia
