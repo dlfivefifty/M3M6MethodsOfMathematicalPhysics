@@ -38,8 +38,9 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 20. [Integral equations on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2020.ipynb)
 21. [Laplace transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2021.ipynb)
 22. [Integral equations on the half-line and Riemann–Hilbert problems](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2022.ipynb)
-23. [Riemann–Hilbert problems on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2023.ipynb)
-24. [The Wiener–Hopf method](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2024.ipynb)
+23. [Cauchy transforms on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2023.ipynb)
+24. [Riemann–Hilbert problems on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2024.ipynb)
+25. [The Wiener–Hopf method](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2025.ipynb)
 
 
 To run the files on your own machine, use the following steps:
