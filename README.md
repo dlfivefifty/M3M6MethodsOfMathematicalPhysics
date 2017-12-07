@@ -43,6 +43,7 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 25. [The Wiener–Hopf method](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2025.ipynb)
 26. [Analyticity of solutions of ordinary differential equations](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2026.ipynb)
 27. [Singular points of ordinary differential equations](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2027.ipynb)
+28. [Hypergeometric functions](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2027.ipynb)
 
 
 To run the files on your own machine, use the following steps:
