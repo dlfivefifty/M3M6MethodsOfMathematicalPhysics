@@ -1,5 +1,7 @@
 # Course material for M3M6 Methods of Mathematical Physics
 
+Office Hours: 11–12 Thursdays during term, Huxley 6M40
+
 ## Reading list
 
 1. M.J. Ablowitz & A.S. Fokas, Complex Variables: Introduction and Applications, Second Edition, Cambridge University Press, 2003
@@ -9,7 +11,9 @@
 
 1. [Problem sheet 1](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%201.pdf) [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%201.ipynb)
 2. [Problem sheet 2](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%202.pdf) [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%202.ipynb)
-3. [Problem sheet 3](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%203.pdf)
+3. [Problem sheet 3](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%203.pdf) (Solutions to be posted 15 December)
+4. Problem sheet 4 (To be posted 15 December)
+5. Practice exam (To be posted 15 January)
 
 
 ## Lecture notes
