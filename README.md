@@ -1,6 +1,6 @@
 # Course material for M3M6 Methods of Mathematical Physics
 
-Office Hours: 11–12 Thursdays during term, Huxley 6M40
+Office Hours: 16:00-17:00 Mondays during term, Huxley 6M40
 
 ## Reading list
 
