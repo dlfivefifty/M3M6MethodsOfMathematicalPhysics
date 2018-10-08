@@ -8,20 +8,25 @@ Office Hours: 16:00-17:00 Mondays during term, Huxley 6M40
 2. R. Earl, [Metric Spaces and Complex Analysis](https://courses.maths.ox.ac.uk/node/view_material/5392), 2015
 
 ## Problem sheets, exams, and mastery material
-
+<!---
 1. [Problem sheet 1](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%201.pdf) [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%201.ipynb)
 2. [Problem sheet 2](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%202.pdf) [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%202.ipynb)
 3. [Problem sheet 3](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%203.pdf) [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%203.ipynb)
 4. [Problem sheet 4](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%204.pdf) [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%204.ipynb)
+-->
 5. [Practice exam](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Practice%20Exam.pdf)
 6. Mastery material (Available on Blackboard)
 
 
-## Lecture notes
+## Lecture notes (2018)
 
 Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook viewer:
 
 1. [Course overview](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%201.ipynb)
+
+
+## Lecture notes (2017)
+
 2. [Cauchy's theorem](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%202.ipynb)
 3. [Cauchy's integral formula and Taylor series](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%203.ipynb)
 4. [Trapezium rule, Fourier series and Laurent series](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%204.ipynb)
