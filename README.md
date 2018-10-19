@@ -7,13 +7,13 @@ Office Hours: 16:00-17:00 Mondays during term, Huxley 6M40
 1. M.J. Ablowitz & A.S. Fokas, Complex Variables: Introduction and Applications, Second Edition, Cambridge University Press, 2003
 2. R. Earl, [Metric Spaces and Complex Analysis](https://courses.maths.ox.ac.uk/node/view_material/5392), 2015
 
-## Problem sheets, exams, and mastery material
-<!---
-1. [Problem sheet 1](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%201.pdf) [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%201.ipynb)
-2. [Problem sheet 2](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%202.pdf) [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%202.ipynb)
-3. [Problem sheet 3](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%203.pdf) [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%203.ipynb)
-4. [Problem sheet 4](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%204.pdf) [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%204.ipynb)
--->
+## Problem sheets, exams, and mastery material (2017)
+
+1. [Problem sheet 1](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%201.pdf) <!--- [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%201.ipynb) -->
+2. [Problem sheet 2](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%202.pdf) <!--- [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%202.ipynb) -->
+3. [Problem sheet 3](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%203.pdf)<!--- [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%203.ipynb) -->
+4. [Problem sheet 4](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%204.pdf) <!--- [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%204.ipynb) -->
+
 5. [Practice exam](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Practice%20Exam.pdf)
 6. Mastery material (Available on Blackboard)
 
