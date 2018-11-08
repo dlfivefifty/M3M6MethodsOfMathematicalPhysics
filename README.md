@@ -23,13 +23,13 @@ Office Hours: 16:00-17:00 Mondays during term, Huxley 6M40
 Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook viewer:
 
 1. [Course overview](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%201.ipynb)
+2. [Cauchy's theorem](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%202.ipynb)
+3. [Cauchy's integral formula and Taylor series](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%203.ipynb)
+4. [Trapezium rule, Fourier series and Laurent series](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%204.ipynb)
 
 
 ## Lecture notes (2017)
 
-2. [Cauchy's theorem](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%202.ipynb)
-3. [Cauchy's integral formula and Taylor series](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%203.ipynb)
-4. [Trapezium rule, Fourier series and Laurent series](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%204.ipynb)
 5. [Residue theorem](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%205.ipynb)
 6. [Analyticity at infinity](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%206.ipynb)
 7. [Integrals over the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%207.ipynb)
