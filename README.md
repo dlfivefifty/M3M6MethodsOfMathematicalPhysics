@@ -33,6 +33,8 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 5. [Residue theorem](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%205.ipynb)
 6. [Analyticity at infinity](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%206.ipynb)
 7. [Integrals over the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%207.ipynb)
+8. [Algebraic powers and inferred analyticity](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%208.ipynb)
+9. [Cauchy transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%209.ipynb)
 15\. [Constructing orthogonal polynomials](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2015.ipynb)
 
 
@@ -40,8 +42,6 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 ## Lecture notes (2017)
 
 
-8. [Algebraic powers and inferred analyticity](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%208.ipynb)
-9. [Cauchy transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%209.ipynb)
 10. [Hilbert transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2010.ipynb)
 11. [Riemann–Hilbert problems](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2011.ipynb)
 12. [Additive Riemann–Hilbert problems](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2012.ipynb)
