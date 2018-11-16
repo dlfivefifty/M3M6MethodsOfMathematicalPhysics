@@ -9,7 +9,7 @@ Office Hours: 16:00-17:00 Mondays during term, Huxley 6M40
 
 ## Problem sheets, exams, and mastery material (2018)
 
-1. [Problem sheet 1](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%201.pdf) <!--- [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%201.ipynb) -->
+1. [Problem sheet 1](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%201.pdf)  [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%201.ipynb) 
 2. [Problem sheet 2](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%202.pdf) <!--- [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%202.ipynb) -->
 
 ## Problem sheets, exams, and mastery material (2017)
@@ -35,6 +35,7 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 7. [Integrals over the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%207.ipynb)
 8. [Functions with branch cuts](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%208.ipynb)
 9. [Cauchy transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%209.ipynb)
+10. [Hilbert transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2010.ipynb)
 
 15\. [Constructing orthogonal polynomials](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2015.ipynb)
 
@@ -42,8 +43,6 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 
 ## Lecture notes (2017)
 
-
-10. [Hilbert transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2010.ipynb)
 11. [Riemann–Hilbert problems](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2011.ipynb)
 12. [Additive Riemann–Hilbert problems](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2012.ipynb)
 13. [Electric charges in a potential well](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2013.ipynb)
