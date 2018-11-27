@@ -40,12 +40,11 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 13. [Electric charges in a potential well](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2013.ipynb)
 14. [Constructing orthogonal polynomials](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2014.ipynb)
 15. [Recurrence relationships](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2015.ipynb)
-
+16. [Solving differential equations with orthogonal polynomials](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2016.ipynb)
 
 ## Lecture notes (2017)
 
 14. [Logarithmic singular integrals](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2014%20(2017).ipynb)
-17. [Solving differential equations with orthogonal polynomials](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2016.ipynb)
 18. [Differential equations satisfied by orthogonal polynomials](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2018.ipynb)
 19. [Orthogonal polynomials and singular integrals](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2019.ipynb)
 20. [Integral equations on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2020.ipynb)
