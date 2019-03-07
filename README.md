@@ -51,22 +51,22 @@ Each file is a Jupyter notebook, that can be viewed using the Jupyter Notebook v
 19. [Logarithmic singular integrals](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2019.ipynb)
 20. [Integral equations on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2020.ipynb)
 21. [Laplace transforms](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2021.ipynb)
-
-## Lecture notes (2017)
-
-
 22. [Integral equations on the half-line and Riemann–Hilbert problems](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2022.ipynb)
 23. [Cauchy transforms on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2023.ipynb)
 24. [Riemann–Hilbert problems on the real line](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2024.ipynb)
+
+
+## Lecture notes (2017)
+
 25. [The Wiener–Hopf method](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2025.ipynb)
-26. [Analyticity of solutions of ordinary differential equations](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2026.ipynb)
-27. [Singular points of ordinary differential equations](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2027.ipynb)
-28. [Hypergeometric functions](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2028.ipynb)
+26. [Analyticity of solutions of ordinary differential equations](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2026%20(2017).ipynb)
+27. [Singular points of ordinary differential equations](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2027%20(2017).ipynb)
+28. [Hypergeometric functions](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Lecture%2028%20(2017).ipynb)
 
 
 To run the files on your own machine, use the following steps:
 
-1. Download [Julia v0.6](https://julialang.org/downloads/)
+1. Download [Julia v1.1](https://julialang.org/downloads/)
 2. In Julia, install the necessary packages:
 ```julia
 Pkg.add("ApproxFun")
