@@ -15,6 +15,8 @@ Office Hours: 16:00-17:00 Mondays during term, Huxley 6M40
 
 4. [Problem sheet 4](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Problem%20Sheet%204.pdf)  [(Solutions)](http://nbviewer.jupyter.org/github/dlfivefifty/M3M6LectureNotes/blob/master/Solution%20Sheet%204.ipynb) 
 
+5. [Mastery sheet](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Mastery%20Sheet.pdf)
+
 5. Mastery material (Available on Blackboard)
 
 6. [Practice exam](https://github.com/dlfivefifty/M3M6LectureNotes/raw/master/Practice%20Exam.pdf)
